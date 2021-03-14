@@ -66,6 +66,10 @@ def move_right(board):
                     a[j-1]=0
     #new_tile()
     print(board)
+    print("Hello")
+    print("Hello2")
+    print("Hello3")
+    print("Hello4")
 
 
 game_start()
